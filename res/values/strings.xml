@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Keycam</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_take_picture">TakePicture</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="title_activity_android_text_to_speech">AndroidTextToSpeechActivity</string>
+    <string name="title_activity_welcome">Welcome</string>
+
+</resources>
