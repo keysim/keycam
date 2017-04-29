@@ -13,13 +13,13 @@ The project was born during a Android Embedded Software Development course at Be
 ## Structure
 
     .
-    ├── AndroidManifest.xml
-    ├── lib                    		# HTTP Core & Android support
-    ├── res					# File source for application
-    │   ├── drawable			# Asset Picture
-    │   ├── layout				# Template of all Activity
-    │   ├── raw				# Asset music
-    │   └── values				# Styles and String
+    ├── AndroidManifest.xml		# Manifest
+    ├── lib                    	# HTTP Core & Android support
+    ├── res				# File source for application
+    │   ├── drawable		# Asset Picture
+    │   ├── layout			# Template of all Activity
+    │   ├── raw			# Asset music
+    │   └── values			# Styles and String
     └── src			# MainActivity & Registration
 
 ## Examples Activity
@@ -43,6 +43,8 @@ Full code [here](https://github.com/keysim/keycam/blob/master/src/com/keysim/key
 
 #### Function Take Picture
 
+    /.../
+
     public void takePicture(){
 
 		if(mCamera!=null){
@@ -54,6 +56,7 @@ Full code [here](https://github.com/keysim/keycam/blob/master/src/com/keysim/key
 			  }
 		  }
 	  }
+    /.../
 	
 Full code [here](https://github.com/keysim/keycam/blob/master/src/com/keysim/keycam/MainActivity.java)
 
