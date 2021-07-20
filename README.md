@@ -79,4 +79,4 @@ Full code [here](https://github.com/keysim/keycam/blob/master/src/com/keysim/key
 
 [The MIT License](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2017 Simon & Vireth
+Copyright (c) 2017 Simon
