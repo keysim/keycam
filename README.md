@@ -71,9 +71,9 @@ Full code [here](https://github.com/keysim/keycam/blob/master/src/com/keysim/key
 
 ## Team & Credits
 
-[![Keysim](https://raw.githubusercontent.com/keysim/gearobot/master/doc/img/keysim.png)](http://keysim.fr) | [![Vireth](https://raw.githubusercontent.com/keysim/gearobot/master/doc/img/vireth.png)](http://vireth.com)
----|---
-:chicken: [Simon Menard](keysim.fr) | :monkey: [Vireth Thach sok](vireth.com)
+[![Keysim](https://raw.githubusercontent.com/keysim/gearobot/master/doc/img/keysim.png)](http://keysim.fr)
+---
+:chicken: [Simon Menard](keysim.fr)
 
 ## License
 
