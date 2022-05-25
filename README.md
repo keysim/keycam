@@ -1,6 +1,6 @@
 # KEYCAM
 
-Projet Android for Embedded Software Development based on Android at BJTU (Beijing Jiaotong University)
+KEYCAM is an application to control your device from a web site everywhere in the world. 
 
 #### Motivation and ambition
 
